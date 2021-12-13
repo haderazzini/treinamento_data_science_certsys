@@ -5,7 +5,7 @@ Material usado no curso de Data Science da Certsys 13 a 22 de dezembro de 2021
 
 ![Calendário](images/calendario.png)
 
-## 1 - Como instalar o Anaconda
+## 2 - Como instalar o Anaconda
 
 Neste video eu mostro como instalar o Anaconda, a distribuição python mais popular para Data Science
 https://youtu.be/VQtw7f24GzU
