@@ -15,3 +15,6 @@ Link para a gravação da Aula 1:
 https://youtu.be/4TvNfJpIVpg
 
 Assim que terminar de subir no Youtube vai estar neste link
+
+## 4 - Exercicio 1 
+O exercicio está na pasta exercicios ![link](exercicios/1.Exercicio_Fundamentos_de_Pyhton_14_12_2021.ipynb)
