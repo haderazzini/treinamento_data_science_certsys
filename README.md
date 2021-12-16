@@ -23,3 +23,7 @@ O exercicio está na pasta exercicios [link](exercicios/1.Exercicio_Fundamentos_
 ## 5 - Aula 2
 Link para a gravação da Aula 2:
 https://youtu.be/5q86x_Z2PAY
+
+## 6 - Exercício 2
+O enunciado do exercicio está no [arquivo](exercicios/Exercicio_2.md) e a [resoulucao](exercicios/2.Exercício_Regressao_resolucao_16_12_2021.ipynb)
+
