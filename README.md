@@ -27,3 +27,8 @@ https://youtu.be/5q86x_Z2PAY
 ## 6 - Exercício 2
 O enunciado do exercicio está no [arquivo](exercicios/Exercicio_2.md) e a [resolucao](exercicios/2.Exercício_Regressao_resolucao_16_12_2021.ipynb)
 
+## 7 - Aula 3
+Link para a gravação da Aula 3:
+https://youtu.be/_p__ViZEYBg
+
+## Atenção: Não teremos exercícios durante o final de semana
