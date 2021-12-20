@@ -32,3 +32,7 @@ Link para a gravação da Aula 3:
 https://youtu.be/_p__ViZEYBg
 
 ## Atenção: Não teremos exercícios durante o final de semana
+
+## 8 -  Aula 4
+Link para a gravação da Aula 4:
+https://youtu.be/5KoZ1SyfSwE
