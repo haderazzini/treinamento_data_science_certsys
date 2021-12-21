@@ -36,3 +36,7 @@ https://youtu.be/_p__ViZEYBg
 ## 8 -  Aula 4
 Link para a gravação da Aula 4:
 https://youtu.be/5KoZ1SyfSwE
+
+## 9 - Exercícios 3 e 4
+O enunciado do exercicio está no [arquivo](exercicios/Exercicio_3.md) e a [resolucao](exercicios/3.Exercício_Classificacao_resolucao_21_12_2021.ipynb)v
+O enunciado do exercicio está no [arquivo](exercicios/Exercicio_4.md) e a [resolucao](exercicios/4.Exercício_clusterizacao_resolucao_21_12_2021.ipynb)
