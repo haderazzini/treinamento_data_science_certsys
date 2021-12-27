@@ -41,3 +41,7 @@ https://youtu.be/5KoZ1SyfSwE
 O enunciado do exercicio 3 está no [arquivo](exercicios/Exercicio_3.md) e a [resolucao](exercicios/3.Exercício_Classificacao_resolucao_21_12_2021.ipynb)
 
 O enunciado do exercicio 4 está no [arquivo](exercicios/Exercicio_4.md) e a [resolucao](exercicios/4.Exercício_clusterizacao_resolucao_21_12_2021.ipynb)
+
+## 10 - Aula 5
+Link para a gravação da Aula 5:
+https://youtu.be/1IfqUPzJEdI
